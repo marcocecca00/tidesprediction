@@ -9,4 +9,4 @@ Questo script utilizza l'API di [WorldTides](https://www.worldtides.info/home) p
 
 ## Utilizzo
 
-Apri il [notebook](./tidesprediction/tidesprediction.ipynb)
+Apri il [notebook](./tidesprediction.ipynb)
